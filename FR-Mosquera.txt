@@ -1,0 +1,5 @@
+1.	The system shall provide a feature to add songs to a playlist.
+2.	The system shall provide a user interface that emphasizes the key buttons that navigate through songs.
+3.	The system shall maintain a database of songs the user has liked.
+ 
+ 
