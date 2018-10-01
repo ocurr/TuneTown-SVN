@@ -1,0 +1,3 @@
+As a user, I want to discover samples of new songs, so that I can add to my collection of music
+As a user, I want to upvote, downvote, and save songs I like, so that I get song recommendations that fit my tastes
+As a user, I want to be able to view songs that I’ve saved, so that I can download or stream them later
