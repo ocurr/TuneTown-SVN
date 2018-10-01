@@ -1,0 +1,3 @@
+1.	As a DJ, I want to add songs to a playlist, so that when the playlist I've created starts to reach the end, I can continue to add more songs.
+2.	As a busy person, I want to play songs with a few clicks on the mobile app, so that I can enjoy music on the go.
+3.	As a music enthusiast, I want to discover new music similar to my taste, so that I can listen to new songs I might enjoy.
