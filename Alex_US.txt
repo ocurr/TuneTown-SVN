@@ -1,0 +1,5 @@
+As an avid music listener, I want a platform to discover new music, so I am up to date on recently uploaded music that is out there.
+
+As a house music fan, I want to have access to new content, so that I can expand my music library.
+
+As a user, I want to listen to samples of music, so that I can quickly curate a playlist that I enjoy.
