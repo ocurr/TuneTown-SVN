@@ -1,0 +1,3 @@
+The system shall provide a feature to save songs to a playlist.
+The system shall play similar songs for each genre
+The system shall provide a like and dislike button to filter songs based on user's preference.
