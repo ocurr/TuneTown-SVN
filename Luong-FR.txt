@@ -1,0 +1,3 @@
+The system shall save the user’s songs into personalized playlists.
+The system shall randomly play a song when no genre is picked.
+The system shall provide links to playlists.

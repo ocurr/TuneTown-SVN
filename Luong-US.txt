@@ -1,0 +1,3 @@
+As a user, I want to be able to create a playlist, so that I can keep track of my favorite songs.
+As a new music listener, I want a random feature, so that I don’t have to pick a specific genre.
+As a user, I want to be able to share my playlists, so that I can share my favorite songs with others.
